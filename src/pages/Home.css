@@ -1,0 +1,23 @@
+.logo-wrapper {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.logo {
+  width: 70px;
+  margin: 0 auto;
+}
+
+.login-form-footer {
+  margin-top: 1rem;
+}
+
+.kava-btn {
+    background: #ff6b00;
+    min-height: 40px;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
